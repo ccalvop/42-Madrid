@@ -1,3 +1,5 @@
+![logo](https://user-images.githubusercontent.com/126183973/224564544-f837f162-57a6-4fef-8a53-ff4aeb8494ac.png)
+
 # 42 Madrid - Programación en C
 
 ¡Bienvenidos al repositorio de mi carrera en **42 Madrid**!
