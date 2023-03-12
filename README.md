@@ -4,9 +4,9 @@
 
 # 42 Madrid - Programación en C
 
-¡Bienvenidos al repositorio de mi carrera en **42 Madrid**!
+¡Bienvenidos a mi repositorio de **42 Madrid**!
 
-Aquí podrás encontrar los proyectos que he desarrollado durante mi tiempo en 42 Madrid, desde los proyectos realizados en la piscina hasta los proyectos que estoy desarrollando actualmente en el cursus common core.
+Aquí podrás encontrar los proyectos que he desarrollado durante mi tiempo en 42 Madrid, desde los proyectos realizados en la piscina (_Mayo 2022_) hasta los proyectos que estoy desarrollando actualmente en el cursus-common core (_Junio 2022 - Actualmente_).
 
 La piscina fue mi primera inmersión en el mundo de la programación y en ella aprendí los conceptos básicos de la programación en C, así como también tuve la oportunidad de trabajar en proyectos individuales y en equipo para mejorar mis habilidades en diferentes áreas. El cursus common core ha sido una continuación de mi aprendizaje, en el que he profundizado en los conocimientos adquiridos en la piscina y he aprendido nuevas habilidades en lenguaje C.
 
