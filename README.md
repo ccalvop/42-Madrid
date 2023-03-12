@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/126183973/224564544-f837f162-57a6-4fef-8a53-ff4aeb8494ac.png)
+![logo2](https://user-images.githubusercontent.com/126183973/224564609-d019a8c9-9c47-482f-ac4e-fadde6908d5b.png)
 
 # 42 Madrid - Programación en C
 
