@@ -1,4 +1,4 @@
-# 42-Madrid - Programación en C
+# 42 Madrid - Programación en C
 
 ¡Bienvenidos al repositorio de mi carrera en **42 Madrid**!
 
