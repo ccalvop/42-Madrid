@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/126183973/224564609-d019a8c9-9c47-482f-ac4e-fadde6908d5b.png" />
 </p>
 
-# 42 Madrid - Programación en C
+## 42 Madrid - Programación en C
 
 ¡Bienvenido a mi repositorio de **42 Madrid**!
 
