@@ -1,2 +1,2 @@
-Bienvenidos, estos son los ejercicios que he entregado hasta ahora en 42 Madrid.
+Bienvenidos, estos son los ejercicios que entregué en 42 Madrid.
 
